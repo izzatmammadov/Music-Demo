@@ -23,4 +23,10 @@ const songs = [
         arist: "Pop Smoke ft. Dua Lipa",
         cover: "./assets/images/image4.jpg"
     },
+    {
+        path: "./assets/music/song5.mp3",
+        displayName: "Call Out My Name",
+        arist: "The Weekend",
+        cover: "./assets/images/image5.jpg"
+    },
 ]

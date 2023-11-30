@@ -1,4 +1,5 @@
 const image = document.querySelector("#cover")
+const count = document.querySelector("#music-count")
 const title = document.querySelector("#music-title")
 const artist = document.querySelector("#music-artist")
 const currentTimeEl = document.querySelector("#current-time")
